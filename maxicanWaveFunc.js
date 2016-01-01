@@ -1,4 +1,4 @@
-function wave(str) {
+export function wave(str) {
     const array = []
     let newString = str
 
